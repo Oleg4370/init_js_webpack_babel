@@ -1,0 +1,12 @@
+# code editors
+.idea/
+
+# node modules
+node_modules/
+
+# ignore log files and databases
+*.log
+*.lock
+
+# compiled files
+dist/
