@@ -12,6 +12,11 @@
   "dependencies": {
     "bundle-loader": "^0.5.6",
     "express": "^4.17.1",
+    "normalize.css": "^8.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
     "rimraf": "^2.6.3",
     "webpack-dev-middleware": "^3.7.0"
   },
